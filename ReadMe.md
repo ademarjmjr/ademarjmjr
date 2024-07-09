@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estou trabalhando no momento como Técnico eletrônico,<br>pois ainda não tive oportunidade de desenvolver projetos remunerados.<br>Sou Front-End iniciante, estou procurando ajuda para conseguir<br>primeiro trabalho.<br>Estou aprendendo no momento python. <br>
+Sou Ademar, Engenheiro de Software e Desenvolvedor Web apaixonado por criar soluções inovadoras e eficientes. Com foco em arquitetura de software e desenvolvimento de projetos escaláveis, meu objetivo é transformar problemas complexos em experiências de usuário fluídas. Vamos nos conectar e construir algo incrível juntos!. <br>
 
 
 ## 🌐 Socials:
