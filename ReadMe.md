@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou Ademar, Engenheiro de Software e Desenvolvedor Web apaixonado por criar soluções inovadoras e eficientes. Com foco em arquitetura de software e desenvolvimento de projetos escaláveis, meu objetivo é transformar problemas complexos em experiências de usuário fluídas. Vamos nos conectar e construir algo incrível juntos!. <br>
+Sou Ademar, Desenvolvedor Web apaixonado por criar soluções inovadoras e eficientes. Com foco em arquitetura de software e desenvolvimento de projetos escaláveis, meu objetivo é transformar problemas complexos em experiências de usuário fluídas. Vamos nos conectar e construir algo incrível juntos!. <br>
 
 
 ## 🌐 Socials:
