@@ -1,9 +1,9 @@
 # 💫 About Me:
-Sou Ademar, Desenvolvedor Web apaixonado por criar soluções inovadoras e eficientes. Com foco em arquitetura de software e desenvolvimento de projetos escaláveis, meu objetivo é transformar problemas complexos em experiências de usuário fluídas. Vamos nos conectar e construir algo incrível juntos!. <br>
+Desenvolvedor Web apaixonado por criar soluções inovadoras e eficientes. Com foco em arquitetura de software e desenvolvimento de projetos escaláveis, meu objetivo é transformar problemas complexos em experiências de usuário fluídas. Vamos nos conectar e construir algo incrível juntos!. <br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ademar-josé-martins-ab9ab3141/) 
+www.linkedin.com/in/ademar-junior-479a67343
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
