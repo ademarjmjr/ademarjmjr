@@ -1,5 +1,10 @@
-# 💫 About Me:
-Desenvolvedor Web apaixonado por criar soluções inovadoras e eficientes. Com foco em arquitetura de software e desenvolvimento de projetos escaláveis, meu objetivo é transformar problemas complexos em experiências de usuário fluídas. Vamos nos conectar e construir algo incrível juntos!. <br>
+# 💫 Sobre Mim:
+Sou um Desenvolvedor Web apaixonado por transformar ideias em soluções digitais inovadoras. Com foco em **arquitetura de software** e **desenvolvimento de projetos escaláveis**, tenho como objetivo criar aplicações eficientes que proporcionem **experiências de usuário incríveis**.  
+Tenho experiência em **design responsivo**, **integração de APIs** e **boas práticas de desenvolvimento**, sempre buscando otimizar processos e entregar valor ao negócio.
+
+🔍 Estou sempre em busca de **novos desafios** e oportunidades para colaborar em equipes dinâmicas e criativas.  
+💡 Vamos criar soluções que façam a diferença no mundo digital? **Conecte-se comigo!**
+
 
 
 ## 🌐 Socials:
@@ -22,6 +27,7 @@ Desenvolvedor Web apaixonado por criar soluções inovadoras e eficientes. Com f
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id= ademarjmjr&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=ademarjmjr&icon=0&color=0)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
