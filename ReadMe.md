@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Sou um Desenvolvedor Web apaixonado por transformar ideias em soluções digitais inovadoras. Com foco em **arquitetura de software** e **desenvolvimento de projetos escaláveis**, tenho como objetivo criar aplicações eficientes que proporcionem **experiências de usuário incríveis**.  
+Sou um Desenvolvedor Web ideias e soluções digitais inovadoras. Com foco em **arquitetura de software** e **desenvolvimento de projetos escaláveis**, tenho como objetivo criar aplicações eficientes que proporcionem **experiências de usuário incríveis**.  
 Tenho experiência em **design responsivo**, **integração de APIs** e **boas práticas de desenvolvimento**, sempre buscando otimizar processos e entregar valor ao negócio.
 
 🔍 Estou sempre em busca de **novos desafios** e oportunidades para colaborar em equipes dinâmicas e criativas.  
